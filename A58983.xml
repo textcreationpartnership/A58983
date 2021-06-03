@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second modest enquiry into the causes of the present disasters in England and who they are that brought the French fleet into the English Channel described : being a farther discovery of the Jacobite plot : together with a list of those noble-men, gentlemen, and others now in custody.</title>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58983</idno><idno type="EEBO-CITATION">9029355</idno>
+  <idno type="VID">42293</idno>
+  <idno type="EEBO-PROQUEST">2264208079</idno>
+  
+            <idno type="STC">Wing S2292</idno>
+            <idno type="STC">ESTC R25612</idno>
+            <idno type="OCLC">09029355</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1294:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second modest enquiry into the causes of the present disasters in England and who they are that brought the French fleet into the English Channel described : being a farther discovery of the Jacobite plot : together with a list of those noble-men, gentlemen, and others now in custody.</title>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton and John Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42293:1"/>
+            <pb facs="tcp:42293:1"/>
+            <p>A Second MODEST ENQUIRY INTO THE CAUSES OF THE <hi rend="blackletterType">Present Disasters</hi> IN ENGLAND.</p>
+            <p>And who they are that brought the FRENCH FLEET into the ENGLISH CHANNEL, Described.</p>
+            <p>Being a farther DISCOVERY of the Jacobite PLOT.</p>
+            <p>Together with a LIST of those Noble-men, Gen<g ref="char:EOLhyphen"/>tlemen, and others now in Custody.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi rend="blackletterType">Iohn Dunton</hi> at the <hi rend="italic">Raven,</hi> and <hi rend="blackletterType">Iohn Harris</hi> at the <hi rend="italic">Harrow,</hi> in the <hi rend="italic">Poultry.</hi> MDCXC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42293:2"/>
+            <pb n="3" facs="tcp:42293:2"/>
+            <head>A SECOND <hi>Modest Enquiry</hi> INTO THE Present MISCARRIAGES In <hi>ENGLAND,</hi> &amp;c.</head>
+            <p>AS 'tis a sad Truth, that the Kingdom of <hi>England</hi> la<g ref="char:EOLhyphen"/>bours at present under more misfortunes than one, so 'tis as evident the Causes must be as various as the Effects they produce: What those are, has bin already attempted, tho' it not being easie to do right to so vast a Subject, which is yet far from being Exhau<g ref="char:EOLhyphen"/>sted, it may not be amiss to make some further <hi>Disquisi<g ref="char:EOLhyphen"/>tion</hi> into this matter. And whereas some pretend part of what has bin already brought upon the Stage is very du<g ref="char:EOLhyphen"/>bious, and depends only on the Faith of the Relator, it may not be an unnecessary piece of Service to trace up the late cursed Conspiracy of the <hi>Jacobites,</hi> as high as we can have any notice of it from plain and undoubted Memoires and Acts of State, most whereof cursorily known, tho' not adverted to, nor seen altogether, which would give Light to the whole: To which when there is added a List of the Names of several persons accused; nothing but a man of very abundant Front will hence forward dare to deny what is such palpable matter of Fact.</p>
+            <pb n="4" facs="tcp:42293:3"/>
+            <p>But the restless Endeavours of a Party indefatigably bent to ruin themselves and <hi>Europe,</hi> are not likely to be dis<g ref="char:EOLhyphen"/>continued with one ill accident; and tho' they cannot, or dare not make any open Effort for the Service of the <hi>Im<g ref="char:EOLhyphen"/>mortal and Eternal Lewis,</hi> as they and his own blasphemous Idolaters call him, yet we are not to think they have less Poyson than before, tho' it lurks more privately, and they dare not so bare-faced as formerly spit it abroad. And what Methods they still make use of, by what ways they can only possibly injure us, and how to prevent 'em in this, as Providence has done in the other, is the Subject of what concludes these Papers.</p>
+            <p>In order to this, 'twill be absolutely needfull to look back as far as the happy Accession of their present Ma<g ref="char:EOLhyphen"/>jesties to the Throne of <hi>England,</hi> to the Confusion of Po<g ref="char:EOLhyphen"/>pery and Tyranny here, the Joy of all Protestants in ge<g ref="char:EOLhyphen"/>neral, and the Satisfaction of all Oppressed <hi>Europe,</hi> which could only expect to shake off those Chains the <hi>French</hi> had almost thrown over all their Necks by the assistance of <hi>England.</hi>
+            </p>
+            <p>This Settlement of their Majesties in the Throne of their Ancestors, by more and better Titles than any Prince in the World at present hold theirs, could not be expected without some opposition or discontent; but that any such should be raised by any besides the most bigotted of <hi>Pa<g ref="char:EOLhyphen"/>pists,</hi> wou'd appear too strange to be thought true, had we not of a long time felt the unhappy Effects thereof; and might have done so to more purpose, had not the Di<g ref="char:EOLhyphen"/>vine Providence most miraculously frustrated their dam<g ref="char:EOLhyphen"/>nable Designs.</p>
+            <p>Several sorts of persons soon found themselves uneasie under the great and unexpected Change, most of which may be reduced under these following Classes: — Those who are, or pretend to be so, out of <hi>Conscience, Honour,</hi> and <hi>Loyalty:</hi> The <hi>Discontented</hi> for want or loss of <hi>Pre<g ref="char:EOLhyphen"/>ferment:</hi>
+               <pb n="5" facs="tcp:42293:3"/> The <hi>great Criminals</hi> of former Reigns: The <hi>De<g ref="char:EOLhyphen"/>bauchee</hi> and the <hi>Papist.</hi>
+            </p>
+            <p>All will pretend the first, and that nothing but pure Con<g ref="char:EOLhyphen"/>science hinders 'em from submitting to the present Govern<g ref="char:EOLhyphen"/>ment. But had that no Enemies besides those who are re<g ref="char:EOLhyphen"/>ally so on this Score, <hi>England</hi> wou'd be much quieter and happier than 'tis presently like to be. But how small the number is of true honest Men whom this misguided Princi<g ref="char:EOLhyphen"/>ple really misleads, we may easily conjecture, if we consider what's so plain, a man wou'd be laugh'd at for going about to prove it:—That no Man can do one thing out of Con<g ref="char:EOLhyphen"/>science, who makes no Conscience of all the other Actions of his Life. —For Instance, —To hear a lewd old Sinner, with his Head full of Claret, and Bones of Claps and Aches, to hear him cry out, 'Tis nothing but pure Conscience makes him an Enemy to the Government, —why, 'tis so unbecoming and odd a thing from his Mouth, that 'twoud be a very difficult matter to look Grave while he's tell<g ref="char:EOLhyphen"/>ing it.</p>
+            <p>Such as these we may be <hi>sure</hi> can't act out of Consci<g ref="char:EOLhyphen"/>ence;—of many others there's at least very great <hi>suspition,</hi> however fair in the rest of their Behaviour. When a man shall very eagerly declaim against the Oaths, (as Instan<g ref="char:EOLhyphen"/>ces have before bin given) hinder others from taking 'em, and protest they'd n'ere do it themselves, thô reduc'd to the extreamest misery, —to see such all of the sudden en<g ref="char:EOLhyphen"/>lightened, as if by an Apostolical Influx, and have their minds chang'd at an hours, almost a minutes warning, and swallow what they have keckt at so long, just at that very instant when they must else have thrown up some comfor<g ref="char:EOLhyphen"/>table Importance together with it; this all ingenuous Ad<g ref="char:EOLhyphen"/>versaries will confess looks so unaccountable, that his Cha<g ref="char:EOLhyphen"/>rity must run away with his Judgment, who can believe this looks either like Conscience or Honesty.</p>
+            <p>The <hi>Biggot</hi> too must come in here, who no doubt was
+<pb n="6" facs="tcp:42293:4"/> extreamly disgusted he might now no longer show all the Religion he had in worrying such as appear to have more, for tis a question that will never be answered, How he can be thought to have any Conscience himself, who won't let another man enjoy his, if 'tis not contrary to the Go<g ref="char:EOLhyphen"/>vernment, and the common good of Mankind?</p>
+            <p>Take these away, and then 'twill be easily reckon'd how many remain upon this Head: For shou'd a truly religi<g ref="char:EOLhyphen"/>ous Man, who acknowledges we have receiv'd a great deli<g ref="char:EOLhyphen"/>verance by their present Majesties, have yet some plausi<g ref="char:EOLhyphen"/>ble Scruples on account of Oaths or other matters, which after the strictest Enquiries he cannot get rid of, shou'd such a one remain disatisfyed, and thereupon lose any Tem<g ref="char:EOLhyphen"/>poral emoluments, and yet behave himself soberly and quietly under the Government, and wish well to the In<g ref="char:EOLhyphen"/>terest of the Nation, such a one ought no doubt to be pityed if not honour'd: But how any Man of Conscience, unless the blind, bloody one of a <hi>Jesuit,</hi> can be willing to have his Country laid open to all the Barbarities of an Enemy more cruel than the <hi>Tartars;</hi> how he can enter into Bonds, Associa<g ref="char:EOLhyphen"/>tions, and Oaths for this very purpose, —Let Dr. — him<g ref="char:EOLhyphen"/>self, or the greatest Casuist they have amongst 'em answer.</p>
+            <p>Another sort of <hi>Malecontents,</hi> were such who had signa<g ref="char:EOLhyphen"/>liz'd themselves in former Reigns, for that mad sort of Loyalty which they had substituted instead of all the Vir<g ref="char:EOLhyphen"/>tues and Commandments together; —some of 'em really Notion-struck, and their Brains half-crackt with it, that 'twas impossible to beat in any thing that seemed to con<g ref="char:EOLhyphen"/>tradict this their darling Opinion; and others too proud to own themselves in any error, thô perhaps sensible on't them<g ref="char:EOLhyphen"/>selves: Being willingly ignorant that true Loyalty is a firm obedience to Princes in whatever is lawfull and accor<g ref="char:EOLhyphen"/>ding to Reason,—and any thing beyond this, nothing but meer Stuff and Cant, and as perfect Non-sence as ever was spoke by <hi>Oliver</hi>'s Porter.</p>
+            <pb n="7" facs="tcp:42293:4"/>
+            <p>For the Discontented, on account of Places of Profit or Honour, they are a sort of Vermine generally as numerous after any Revolution, as Froggs after a shower of Rain; and these in no small numbers listed themselves under the Banners of the Murmurers; they were of the Fellows mind in the Play — Nothing less than being <hi>All Viceroys</hi> wou'd content 'em; thinking what they did for the then Prince in running away from their old Master, to save their own Necks and Throats, was an Obligation he cou'd never pay with less than half his Kingdom: And this indeed made some so sawcy, they cou'd scarce for<g ref="char:EOLhyphen"/>bear huffing Majesty it self, 'till they were taught, it neither needed, nor wou'd accept such ill-manner'd Ser<g ref="char:EOLhyphen"/>vice. — Had these Persons, as has been formerly told 'em publickly enough, but been so kind as to have op<g ref="char:EOLhyphen"/>pos'd that Invincible Prince by whose <hi>abused Clemency</hi> they now live, they might have chanc'd to procure that Knocking o'th Head or Hanging they have so long de<g ref="char:EOLhyphen"/>serv'd: —But alas—their Talent lyes clear another way — If you come to Fighting once, they are <hi>Ʋnfortunate</hi> as well as their Master, and there's an end on't.</p>
+            <p>In the next rank comes the Sparks that are humble Slaves to any Tyrant that will but let 'em run to the Devil without further trouble or molestation; — who ha<g ref="char:EOLhyphen"/>ving no sence of Virtue, have none of Honour neither, nor of any handsome or noble Principle. The fulsom <hi>Debauchery</hi> of the <hi>first of the Brothers</hi> Reigns, and the Devilish <hi>Godliness</hi> of the second, has made such Dare Devils of half the Nation, rendring 'em of no Re<g ref="char:EOLhyphen"/>ligion, as a necessary step to one that was worse than none, that no wonder those who are afraid of losing Damnation, and having their Debaucheries now both frown'd and lived out of Countenance, shou'd be very much displeas'd they had not <hi>Toleration</hi> granted 'em who<g ref="char:EOLhyphen"/>ever went without it.</p>
+            <pb n="8" facs="tcp:42293:5"/>
+            <p>Nor must those great <hi>Criminals</hi> here be forgotten, who formerly gorg'd themselves, and grew so fat on the spoils of the Nation, that they long for't agen as savou<g ref="char:EOLhyphen"/>rily as a Sheep biting Dog licks his Lips at a Flock of Sheep, when he has newly slipt the Halter for worry<g ref="char:EOLhyphen"/>ing 'em: —which when they found themselves disap<g ref="char:EOLhyphen"/>pointed in, no wonder they show their Fangs, and gern at the Shepherd himself, thô the Mungrils han't the Courage to fasten upon him, for fear of being knockt o'th' Head.</p>
+            <p>For these last, they seem more inexcusable than any yet named — One wou'd have thought Quarter for their Lives had been very fair, after they were deliver'd from the enrag'd multitude, than whom they needed no other Executioners, by that Prince whom they hated much more than Injustice and Perjury: — But after they yielded at little more than Discretion, and receiv'd their well-forfeited Lives: Nay, after their Estates too were secured, beyond one wou'd think, their own modest hopes, —when they were at last skreen'd from the ex<g ref="char:EOLhyphen"/>emplar Justice of the Nation, by the same hand who saved 'em from their Vengeance, and only a very few Excepted in their Majesties unparallel'd <hi>Act of Grace,</hi> 'tis after all a hard Case to decide whether they most ex<g ref="char:EOLhyphen"/>pose in their repeated Endeavours all along to be as great Villains as ever, their stupid Folly, or damn'd Ingratitude.</p>
+            <p>There's but one Party more, on some Accounts the most excusable of all the rest, namely the <hi>Papists:</hi> If these are ungrateful, stupid, head-strong; if these run their Heads blindfold into Nooses, and break all Faith and Law, and are extreamly dissatisfied with a Pro<g ref="char:EOLhyphen"/>testant King, why 'tis much the Nature of the Beasts, and who wonders when a Serpent stings, or a Toad poisons: 'Tis their <hi>Religion,</hi> and there being Purga<g ref="char:EOLhyphen"/>tory of one side, and Hell o' t'other, what marvel
+<pb n="9" facs="tcp:42293:5"/> if when the painted Flame is represented so much more dreadful than the real one, they leap into the latter to avoid the former. Besides, to speak Truth, the poor wretches had a very hard bargain on't. They were forc'd to pay and pray too, and between the Priests and <hi>Ave-Mary</hi>'s had run themselves both out of Breath and Pocket. The Cause had Exhausted 'em in every Town almost in <hi>England,</hi> Mass-Houses erected and Priests main<g ref="char:EOLhyphen"/>tain'd. And 'twas very hard after all to lose all, and be forc'd to take up with a Bill upon tother World when they expected this their own. That they would have one push more for what they had hoped so hard and long for, and just slipt away between the Cup and the Lip, seem'd very agreeable to their principles and pra<g ref="char:EOLhyphen"/>ctice, and indeed if there be a Plot without a Papist at one end or other on't, ye may safely venture to pardon all that are engaged in it.</p>
+            <p>From such persons as these above described, the Go<g ref="char:EOLhyphen"/>vernment was to look for nothing but Murmurs, and, as <hi>Socrates</hi> said of his Wife, after so much Thunder some Rain was to be expected, so that grumbling noise fore<g ref="char:EOLhyphen"/>told those accursed showers of Treason and Mischief which have since burst out to the Nations Trouble and their own Confusion. For let any Person but impar<g ref="char:EOLhyphen"/>tially examine the principles and circumstances of any whom he either knowes engaged in this Plot, or an Ido<g ref="char:EOLhyphen"/>later of the old Leek and Onions, and if he find him not easily rankt under one of those mentioned Classes, I'm extreamly mistaken.</p>
+            <p>Things being in this posture, the late K. <hi>James</hi> (let us suppose) now in <hi>Ireland,</hi> and the ragged Highlanders in <hi>Scotland</hi> declaring for him, or rather against their
+<pb n="10" facs="tcp:42293:6"/> Neighbours Cowes, Sheep and what they could catch, the different Parties here in <hi>England</hi> struggling, and such a ferment in the Nation as could not but be expected after t' had bin so violently shaken; then began to be hamer<g ref="char:EOLhyphen"/>ed out a Design both here and in <hi>Scotland</hi> to reduce us again to our old Slavery and Misery, and bring back the fatal Cause of all, as has bin unanswerably prov'd in both the Kingdoms both before the Councils and Parliament, from the very original Band and Associations, and con<g ref="char:EOLhyphen"/>curring Evidence, and Confessions of some principally engaged in this Horrid Villany.</p>
+            <p>For, not to take any notice of the late Kings Decla<g ref="char:EOLhyphen"/>rations (of just as much efficacy as the Popes Bull wou'd be here) which like Vipers Teeth were sow'd about the City by <hi>Vaughan</hi> and the rest of his Gang, which had bin certain Death under any Government but one forgiving enough to Conquer any thing but harden'd Ingratitude, —I say not at present to take notice of this early attempt in this place, since we shall meet with 'em again shortly, as 'tis hoped Justice will, Let us begin in <hi>Scotland</hi> and see how many Cockatrices Eggs have bin brooding there, tho' all of 'em either addled or dasht to pieces. It may be worth the while to pass a short Remark on the Duke of <hi>Gourdon</hi> there, who after he had for some time held <hi>Edinborough</hi> Castle against their Majesties, after he had deliver'd it up when he could scarce well hold it longer, and was treated with so much Clemency both by the Government there and here, after he had bin ad<g ref="char:EOLhyphen"/>mitted to kiss the Kings hand, and gave his Honour a pledge for his Eternal Fidelity, he after all sneak't off to K. <hi>James,</hi> or worse, were't not the same, to the Court of the <hi>French</hi> Tyrant; by whose Example, joyn'd with that of <hi>Hamilton</hi>'s, we may see how little Trust there is
+<pb n="11" facs="tcp:42293:6"/> to that good natured supposition of ours, —That 'tis possible in some Cases for the innate Honour and Good<g ref="char:EOLhyphen"/>ness of a Papist to conquer the poyson of his Religion, and in spite of his Faith make him brave and honest, whereas in these and many other Instances we see the the quite contrary; that their Religion, such a one as 'tis, is too hard for their Morality, and the <hi>
+                  <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igot</hi> for the most part runs away with the <hi>Gentleman.</hi>
+            </p>
+            <p>One of the first signal discoveries made in <hi>Scotland</hi> of this Plot's being there on Foot a considerable time since, may be that of my Lord <hi>Ollyphant,</hi> at whose House in <hi>Bachan,</hi> upon advice given, were seiz'd himself, and several Gentlemen more, with an Original Band of Asso<g ref="char:EOLhyphen"/>ciation for the late K. <hi>James,</hi> sign'd by about 400 hands, whose exact Characters the Paper containing the account gives us a little lower; —<hi>Many of 'em such as were of de<g ref="char:EOLhyphen"/>sperate Fortunes, ruin'd in their Credit and Domestick Af<g ref="char:EOLhyphen"/>fairs, whom no Law could reach,</hi> &amp;c. Very fit Persons these to settle Three Kingdoms.</p>
+            <p>And indeed we shall find few weeks but some steps or other of this grand Design were trackt by the sharp-scented Politicians of that Kingdom, to whose discove<g ref="char:EOLhyphen"/>ries, as 'twill appear, we are not a little beholden for a clearer Insight into that Branch on't, which more imme<g ref="char:EOLhyphen"/>diately concerns us here in <hi>England.</hi>
+            </p>
+            <p>Thus about the beginning of <hi>March,</hi> 1689. was siezed at <hi>Glasgow</hi> one <hi>Strachan</hi> a Papist from <hi>Dublin,</hi> who prov'd pretty ingenuous, and confest he came an Express from the late King <hi>James,</hi> with Letters to the County of <hi>Arrol</hi> written with his own Hand, and seve<g ref="char:EOLhyphen"/>ral others to several of his Confidents and Partizans, which he delivered with other Instructions relating to the same matters to <hi>Gourdon,</hi> late Regent of <hi>Glasgow,</hi>
+               <pb n="12" facs="tcp:42293:7"/> some of which cunningly done up in the Heel of a pair of shoes. —Which <hi>Gourdon</hi> being immediately sent for, the Messenger by the strangest Accident, or rather Pro<g ref="char:EOLhyphen"/>vidence in the World, met him on the Rode, without knowing him till he heard him named, and on Enquiry found him the Gentleman he wanted, kindly come half way to meet him, and seiz'd him with Shoes, Letters, and all the rest of his Cargo as before discovered.</p>
+            <p>The succeeding <hi>June,</hi> we find in the <hi>Scotch</hi> Paper an Account of that famous Person <hi>Nevil Pain,</hi> his busi<g ref="char:EOLhyphen"/>ness into <hi>Scotland,</hi> and Apprehension there. <q rend="margDblQuotes">He gave himself out, the Paper tells us, at first, for one <hi>Watson,</hi> and then went by another Name, but at last prov'd to be <hi>Nevil Pain, better known</hi> 'twas supposed in <hi>London</hi> than there, however 'twas believ'd he could make considerable discoveries, and had bin to that end Ex<g ref="char:EOLhyphen"/>amin'd before the Privy Council.</q>
+            </p>
+            <p>Indeed he is a Person notoriously <hi>known</hi> both in <hi>England</hi> and <hi>Ireland.</hi> From the Playhouse, and feign<g ref="char:EOLhyphen"/>ed Plots he proceeded to real ones. In 1672. we meet him in <hi>Dublin,</hi> where the <hi>Irish</hi> Histories tell us he went by several names (as well as in <hi>Scotland</hi>) and was at last made use of by the <hi>Popish</hi> party in the Meritorious Work of raising the Mob of the City against the Recor<g ref="char:EOLhyphen"/>der and Aldermen, or at least making such Dissentions between the Populace and their Governours that they chose him at last for their Agent and made a purse for him, till on Examination all the Murder came out, 'twas discover'd to be a <hi>Popish</hi> Intrigue, and there it ended.</p>
+            <p>He was not less remarkable afterward in <hi>England,</hi> for in 1678. we find him with more than
+<pb n="13" facs="tcp:42293:7"/> a finger in the Popish Plot, and for matters relating that way committed to <hi>Newgate.</hi> How dearly intimate he was with his Friend <hi>Coleman,</hi> appear'd then from an Elegy he wrote upon him after his Execution, consecra<g ref="char:EOLhyphen"/>ting after their ways that notorious confessed Traytor into a <hi>Triumphant Martyr.</hi>
+            </p>
+            <p>And who so fit as this remarkable Gentleman to ne<g ref="char:EOLhyphen"/>gotiate in <hi>Scotland</hi> now, and try if 'twere not yet possi<g ref="char:EOLhyphen"/>ble to buoy up the sinking cause? But alas there's very few of 'em are zealous enough to make Martyrs them<g ref="char:EOLhyphen"/>selves, though they'l push orhers forwards and save their own knuckles—. Poor Mr. <hi>Pain</hi> was not proof against a Halter, or if he were, things were made out so plain against him that 'twas too late to deny the Plot, concurring evidence coming in of all sides. Thus in <hi>June</hi> a Packet was seiz'd at <hi>Lieth,</hi> designed to be carryed Northward with the common news Letters, wherein was found a Letter from the late King <hi>James</hi> to his General and other Officers in the <hi>Highlands,</hi> and about the mid<g ref="char:EOLhyphen"/>dle of this month, strict search was made for persons concerned in the Design, that branch of it relating to <hi>Edinburgh</hi> no less bloody and cruel then Trayterous and wicked. Their Instructions of burning or blowing up the Palace of <hi>Holy-Rood-House</hi> being shrowdly confir<g ref="char:EOLhyphen"/>med by so great a Quantity of Powder, <hi>&amp;c.</hi> being dis<g ref="char:EOLhyphen"/>cover'd in <hi>Blair's</hi> House, so near that Palace, and great Quantities of Arms seized in the Houses of several others dis-affected to the Government. On which a Procla<g ref="char:EOLhyphen"/>mation issued out, bearing— <q rend="margDblQuotes">That whereas there had been several Treasonable and Seditious designs, and combinations, set on Foot of late in both our Kingdoms, by persons Enemies to the Protestant Re<g ref="char:EOLhyphen"/>ligion, and ill-affected to our Government, who
+<pb n="14" facs="tcp:42293:8"/> have presumed to take Commissions from the late King <hi>James,</hi> intending not only to support the Re<g ref="char:EOLhyphen"/>bellion in the <hi>Highlands</hi> of this our ancient Kingdom, as appears by Bonds, Associations and Letters, but like<g ref="char:EOLhyphen"/>wise to form parties, &amp; to create Sedition and commo<g ref="char:EOLhyphen"/>tion in other places thereof, to which end <hi>Henry Nevil Pain,</hi> Prisoner in our Castle of <hi>Edinburgh,</hi> a Traffick<g ref="char:EOLhyphen"/>ing Papist, was sent into the Kingdom, and seiz'd in <hi>Anandale;</hi> and several of his Associates and correspon<g ref="char:EOLhyphen"/>dents have been by our Warrant secured in our King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> and there being <hi>clear evidence</hi> of a correspondence betwixt the said <hi>Pain,</hi> and several persons in this our antient Kingdom, and there being many suspect and disaffected persons lurking in and about our City of <hi>Edinburgh.</hi>Therefore we <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>'Twas but a very little while after this Proclamation, before the Borders were reinforced by several strong Detachments out of the Forces there, on Information of an Intelligence and correspondence between the Plotters there and in <hi>England.</hi> And there as well as here, there's hardly a Post but brings us an account of some secured, and parties of Horse still out after more.</p>
+            <p>From all which nothing can be clearer then that this <hi>Wicked design</hi> was on foot in <hi>Scotland,</hi> and that those who managed it there held correspondence with others here.</p>
+            <p>Whose Plots though laid as deep as Hell, were not concealed either from King or Parliament, appears plain enough even in those publick Memoires we have of their Speeches and Actions. That the King knew 'em
+<pb n="15" facs="tcp:42293:8"/> is clear from his Speech to both Houses, <hi>March</hi> the 20th. 1689. on occasion of the Act of Grace. <q rend="margDblQuotes">A further Reason, saith he, which induceth me to this Act at this time is because I am desirous to leave no colour of excuse to any of my Subjects for raising di<g ref="char:EOLhyphen"/>sturbances in the Government, and especially in the time of my absence, and I say this both to inform you, and <hi>to let some dis-affected men see that I am not unac<g ref="char:EOLhyphen"/>quainted how busie they are in their present endeavours to alter it.</hi>
+               </q>
+            </p>
+            <p>Nor did the Parliament themselves long want clear and visible demonstration of what the King had inform'd 'em, from persons deeply acquainted with the whole design. Thus in the printed Votes, No. 40. Mr. <hi>Gray</hi> Reported from the Committee of the whole House, that they had directed him to move the House that a Committee may be appointed to enquire into the List<g ref="char:EOLhyphen"/>ing, Assembling and Exercising of Papists and other disaffected persons in Arms in several Counties of this Kingdom without Their Majesties Commission. A Com<g ref="char:EOLhyphen"/>mittee was appointed accordingly.</p>
+            <p>Then the House being informed that one Mr. <hi>Dodes<g ref="char:EOLhyphen"/>worth</hi> could inform the House of several Regiment of Papists who had Listed themselves in Arms in <hi>Lancashire.</hi> 'Twas ordered <hi>Dodsworth</hi> should attend the House touching the same; and the next day accordingly at<g ref="char:EOLhyphen"/>tending he was called in and at the Bar gave in his In<g ref="char:EOLhyphen"/>formation of several Papists and others, who had listed themselves in Arms and had Commissions from the late King <hi>James,</hi> to be Officers for Regiments and Troops
+<pb n="16" facs="tcp:42293:9"/> in <hi>Lancashire</hi> and other places. He then was ordered to appear before the Lord Chief Justice of the Kings Bench to be examined concerning the same.</p>
+            <p>We further find that Sir <hi>James Rushout,</hi> a Member of Parliament had other Examinations of the same nature relating to <hi>Worcestershire,</hi> on both which a Committee was immediately ordered to bring in a Bill for the more effectually securing Their Majesties Government, against all persons that conspire to raise Rebellion and disturb the peace of the Kingdom. Mr. <hi>Dodsworth</hi>'s Examination before the Lord Cheif Justice having been read at the Bar of the House (as also the Names of the persons men<g ref="char:EOLhyphen"/>tioned by him to be Officers in <hi>Lancashire</hi>) it was after<g ref="char:EOLhyphen"/>wards ordered to be delivered to one of Their Majesties Secretary of State.</p>
+            <p>And all this surely is more then a supposal or suspiti<g ref="char:EOLhyphen"/>on only, had we no more evidence since to back it, but alas this was little more then the Embryo of the plot afterwards discovered.</p>
+            <p>Yet such as 'twas 'tis a pleasant remark to those who can remember it, how strangely the well-willers to the work did magnifie this business when 'twas first talkt on, Though thousands grew apace, the numbers of the Pa<g ref="char:EOLhyphen"/>pists in arms, we were told was very formidable, and before they so much as ever met in a Body, they were made a compleat Army.</p>
+            <pb n="17" facs="tcp:42293:9"/>
+            <p>Thus we have trac'd the different Steps and Branches of this Plot, as they appeared in <hi>Scotland</hi> and <hi>England,</hi> discover'd by the King and Parliaments of both Na<g ref="char:EOLhyphen"/>tions; and hitherto frustrated; wherein one remarka<g ref="char:EOLhyphen"/>ble passage was forgotten in Relation to <hi>Scotland,</hi> whither his Majesties care, like a kind Father, reach't as well as to his two other Kingdoms, and directed 'em, in his Letter sent thither, before his passage into <hi>Ireland,</hi> [To use their utmost Endeavours to discover the secret Practices and Intreagues of all the disaffected Per<g ref="char:EOLhyphen"/>sons, and prevent all their ill Designs from taking effect.]</p>
+            <p>What Measures were taken in <hi>England</hi> by the <hi>Ja<g ref="char:EOLhyphen"/>cobites</hi> on his Majesties truly Royal Resolution to expose His Sacred Person there, has been already told the World. And I appeal to every bodies memory if that Party did not generally most extravagantly exult and rejoyce when they heard on't. —E'ne much good may it do 'em with all either they or their King have got by't; and all honest Men will for once be of their minds, and be as joyful as they for their lives on this occasion.</p>
+            <p>The Generosity of the Party too is very well worth observing — when His Majesty was gon for the defence of his Country with most of his Army, then they thought and hop'd easily to prevail against a <hi>Womans</hi> Management, never before vers'd in the Arts of Government. But they have very finely caught a <hi>Tartar</hi>— they have found a second Queen <hi>Elizabeth,</hi> with a Soul strong enough either to pre<g ref="char:EOLhyphen"/>side in Council, or head Armies— Nor dare they, as experience tells the World, meet her any more
+<pb n="18" facs="tcp:42293:10"/> than his Majesty, who thundr'd 'em away from <hi>Sa<g ref="char:EOLhyphen"/>lisbury,</hi> at the very noise of his Approach at forty miles distance; and after driving 'em here, has been forc'd to follow them so long in <hi>Ireland</hi> from Hill to Hill and Bog to Bog, that his Army can't chuse but know all their Commanders by their Back-sides, which they have seen so much oftner and longer than their Faces.</p>
+            <p>And since those concern'd in this fine Project, which what it was the Memorial assures, and common Sense the same, that the <hi>French</hi> would not send a Fleet, nor could at such a nick without intelligence and correspondence. Since they have so much consulted the Glory of <hi>England,</hi> 'tis pity but they should in<g ref="char:EOLhyphen"/>deed be known to succeeding Ages, and their Names rendred as eternal as those of <hi>Herostratus</hi> and <hi>Nero.</hi>
+            </p>
+            <p>Not therefore to prejudice any, but leave 'em all to as fair a Tryal as <hi>Crone</hi> had before 'em, wishing heartily they may purge themselves, and after-ages may not have so many Englishmen recorded as the blackest of Traytors, t'will be yet necessary to give a List of those <hi>Men worthy</hi>—who are already committed.</p>
+            <list>
+               <head>In the Tower.</head>
+               <item>Earl of <hi>T<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rrington.</hi>
+               </item>
+               <item>Lord <hi>Newburgh.</hi>
+               </item>
+               <item>Earl of <hi>Clarendon.</hi>
+               </item>
+               <item>Earl of <hi>Salisbury.</hi>
+               </item>
+               <pb n="19" facs="tcp:42293:10"/>
+               <item>Lord <hi>Forbes.</hi>
+               </item>
+               <item>Earl of <hi>Yarmouth.</hi>
+               </item>
+               <item>Lord <hi>Gryffin.</hi>
+               </item>
+               <item>Lord <hi>Rosse.</hi>
+               </item>
+               <item>Sir <hi>John Fenwick.</hi>
+               </item>
+               <item>Colonel <hi>Hastings.</hi>
+               </item>
+               <item>Colonel <hi>Butler.</hi>
+               </item>
+               <item>— <hi>Stafford</hi> Esquire.</item>
+               <item>Captain <hi>Hatton.</hi>
+               </item>
+               <item>Major <hi>Matthews.</hi>
+               </item>
+               <item>Mr. <hi>Bernard Howard</hi> [the very Draw<g ref="char:EOLhyphen"/>cansir of the party.]</item>
+            </list>
+            <list>
+               <head>In Newgate.</head>
+               <item>Sir <hi>Nicholas Butler</hi> — verily!</item>
+               <item>Sir <hi>Adam Blair.</hi>
+               </item>
+               <item>Captain <hi>John Vaughan.</hi>
+               </item>
+               <item>— <hi>Throgmorton.</hi>
+               </item>
+               <item>— <hi>Turner</hi> Esquire.</item>
+               <item>Captain <hi>Ryder.</hi>
+               </item>
+               <item>Captain <hi>Crone.</hi>
+               </item>
+               <item>Mr. <hi>Oliver St. John.</hi>
+               </item>
+            </list>
+            <list>
+               <head>In the Gate-House.</head>
+               <item>Secretary <hi>Pepys.</hi>
+               </item>
+               <item>Collonel Walden.</item>
+               <item>Captain <hi>B</hi>—</item>
+            </list>
+            <list>
+               <pb n="20" facs="tcp:42293:11"/>
+               <head>Accused, and in the Proclamation <hi>May</hi> 30th required to surrender.</head>
+               <item>
+                  <hi>Tho. Tildesly,</hi> or— <hi>Tindesly</hi> [excepted in the Act of Grace.</item>
+               <item>
+                  <hi>Molineux.</hi>
+               </item>
+               <item>
+                  <hi>Tempest.</hi>
+               </item>
+               <item>
+                  <hi>Townly.</hi>
+               </item>
+               <item>
+                  <hi>Garlington.</hi>
+               </item>
+               <item>
+                  <hi>Standish.</hi>
+               </item>
+               <item>
+                  <hi>Gerrard</hi>'s Son.</item>
+               <item>
+                  <hi>Tho. Tildesley.</hi>
+               </item>
+               <item>
+                  <hi>Ralph Tildesly.</hi>
+               </item>
+               <item>
+                  <hi>Henry Butler.</hi>
+               </item>
+               <item>
+                  <hi>Richard Butler.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Butler.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Carus.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Westby.</hi>
+               </item>
+               <item>
+                  <hi>William Westby.</hi>
+               </item>
+               <item>
+                  <hi>Harrington.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Molineux.</hi>
+               </item>
+               <item>
+                  <hi>Massy.</hi>
+               </item>
+               <item>
+                  <hi>Penny.</hi>
+               </item>
+               <item>
+                  <hi>Carus.</hi>
+               </item>
+               <item>
+                  <hi>Byerly.</hi> al. <hi>Barlow.</hi>
+               </item>
+               <item>
+                  <hi>Goodan</hi> — Clerk.</item>
+               <item>
+                  <hi>Goodwin</hi> —a Romish Priest.</item>
+               <item>
+                  <hi>Will. Westby.</hi>
+               </item>
+               <item>
+                  <hi>George Carus.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Butler.</hi>
+               </item>
+               <item>
+                  <hi>Stanby.</hi>
+               </item>
+               <item>
+                  <hi>Penalt.</hi>
+               </item>
+               <item>
+                  <hi>Knipe.</hi>
+               </item>
+               <item>
+                  <hi>Coale.</hi>
+               </item>
+               <item>
+                  <hi>Carus.</hi>
+               </item>
+               <item>
+                  <hi>Woolfall.</hi>
+               </item>
+               <item>
+                  <hi>Ducket.</hi>
+               </item>
+               <item>
+                  <hi>Colton.</hi>
+               </item>
+               <item>
+                  <hi>Thornton.</hi>
+               </item>
+            </list>
+            <p>These with many more of the same Stamp for whom Warrants are abroad, had concerted the Matters be<g ref="char:EOLhyphen"/>tween 'em for a general Insurrection— The places of Rendevouz appointed on several pretexts at several places— One of the chiefest- the famous <hi>Cock-match</hi> at the <hi>Bathe</hi>— to spoil which some Troops of Guards were ordered thither, which we are not to expect they should have the Courage to meet, nor did they, but scattered and ran to Coverts as fast as Guilt and Fear cou'd drive 'em, nor after all have they had the Courage to fire one Pistol for their Cause throughout all <hi>England,</hi> tho' arriv'd they were to such a heighth of Insolence, on
+<pb n="21" facs="tcp:42293:11"/> hopes no doubt of sure Success, that where they had Power, (only in one place) Protestant Chaplains have been forbid to pray for His Majesties Success in <hi>Ireland,</hi> and the very Guards and Centries abus'd and affront<g ref="char:EOLhyphen"/>ed by such as knew where to have a sufficient Sanctu<g ref="char:EOLhyphen"/>ary.</p>
+            <p>And now very plausibly may the Papists cry out as some of 'em do very impudently and loudly—You charge us with Plots— Here's one of your own—One in which Persons of the greatest Rank and Interest are embark'd, <hi>Body, Soul</hi> and <hi>Estate</hi> (that out-throws Lives and Fortunes a Bar and a half at least) hence<g ref="char:EOLhyphen"/>forward be silent; for if there were any thing real, at least the Protestants can Plot as well as we.</p>
+            <p>To give 'em a full Answer —Do they think, or did we ever, that there are no Villains besides them<g ref="char:EOLhyphen"/>selves, or that we are ignorant a Renegade makes the bloodiest <hi>Turk</hi> alive, and that Mungrels are no better? Can we help a Knaves wearing the Mask of an honest Man, on purpose to disgrace him, as well as secure him<g ref="char:EOLhyphen"/>self? How great the Interest of these Persons concern<g ref="char:EOLhyphen"/>ed is, appears from what has been already hinted— Their tame submitting without one Stroke struck for 'em in any place of <hi>England.</hi> Besides, There are very few of them Persons of any considerable Note, Inte<g ref="char:EOLhyphen"/>rest, Reputation, or Fortunes—Nothing they had generally to lose but a Carcass, and those not all of the Soundest. This they fairly staked; win—an Estate; lose—an Halter; they expected a Throw for't, and 'twas no great concern which side the Dye fell on.</p>
+            <p>And yet more. That most of those concern'd are indeed Papists, and professed ones too, is appa<g ref="char:EOLhyphen"/>rent from all the Proclamations and Acts of State yet mention'd.</p>
+            <p>'Twill be now needful to describe the Methods
+<pb n="22" facs="tcp:42293:12"/> by which this Plot was carried on, what of them are frustrated, what yet remain too, for viceable to their Designs.</p>
+            <p>They and the Devil (to slander neither) did their parts; and had but Heaven stood neuter one hour longer all had been their own. How they were dis<g ref="char:EOLhyphen"/>appointed on the Fleet, has been already observ'd in the First Part, and is by this time all over <hi>Europe;</hi> who can't but esteem us the Darlings of Providence, and will still be so as long as a Protestant lives in the World.</p>
+            <p>But tho' their Head be crush'd, their Sting yet re<g ref="char:EOLhyphen"/>mains—<hi>haeret lateri</hi>—as has been observ'd; their Talent lies more in Lying than Fighting; the Nation is poy<g ref="char:EOLhyphen"/>son'd between Knaves of their side, and Fools on the other; the Symptoms are visible and dangerous, the parts swoln and very angry; Lenitive and Emollient Medicines must be made use of, or we are in a fair way to do their work, and ruine our selves without their Assistance.</p>
+            <p>It has been so long the best Game our Enemies had, to play us at one another, and save their often despe<g ref="char:EOLhyphen"/>rate Stakes, that it should make us asham'd to be trick'd upon so dully the self-same way. This they have been, and are still as busie at as ever, tho' we may thank our selves for the Success they find.</p>
+            <p>Is not all the World convinc'd, That Union of Inte<g ref="char:EOLhyphen"/>rests and Affections is the only way to make a Commu<g ref="char:EOLhyphen"/>nity safe and happy? The contrary is easily argued— Where there are two such strong Parties as are in <hi>England,</hi> by many years unlucky Accidents exasperated against one another, yet the Body of both firm to the Government, what can mine that and both, but set<g ref="char:EOLhyphen"/>ting these together by the Ears, and hallooing the Rabble of both sides one against th' other?</p>
+            <pb n="23" facs="tcp:42293:12"/>
+            <p>That this is the present most dangerous, most suc<g ref="char:EOLhyphen"/>cessful, continued Labour of our common Enemies, not only ungrateful Experience and daily Observation in<g ref="char:EOLhyphen"/>forms us, but Majesty it self, in its Speech to the Par<g ref="char:EOLhyphen"/>liament before-mentioned, wherein the King tells us, <hi>Amongst other Encouragements which I find, they give themselves, one of the ways by which they hope to compass their Designs, is by creating differences and disagreements,</hi> &amp;c.</p>
+            <p>And if 'twere possible to creep in even among that August Assembly, how much more in common Con<g ref="char:EOLhyphen"/>versation among all Ranks and Degrees of the Peo<g ref="char:EOLhyphen"/>ple?</p>
+            <p>
+               <hi>Here's such an one</hi> (cry they) <hi>a common Swearer, Drunkard, Whoremaster, and yet a zealous Churchman all the while, and a red-hot</hi> Jacobite <hi>to boot.</hi>
+            </p>
+            <p>This the Mob of one Party swallows very readily, and not having a Genie large enough to see the Fal<g ref="char:EOLhyphen"/>lacy out, runs along with this imposing Villain in the Conclusion he draws,</p>
+            <p>
+               <hi>Ah, they're all alike, or the most part of 'em; there's not an Halter to chuse, they'l certainly betray the Nation to save their own Bacon, and persecute the poor Dissenters again.</hi>
+            </p>
+            <p>So there's one whole Coffee-house charg'd and prim'd, there wants but giving Fire, and that shall be done from t'other side rather than not at all.</p>
+            <p>
+               <hi>Well, these Presbyterian Devils, they'll never leave till they've brought all to a Commonwealth—Don't you see the Church must down, and nothing else will satisfie 'em— Better turn Papist, nay Mahometan, than let 'em get up<g ref="char:EOLhyphen"/>permost.</hi>
+            </p>
+            <p>A very fair Speech on t'other side I Now a clear Stage, bring the Combatants but in sight, and they'l at it as naturally as two Cocks, while the Rogues stand by,
+<pb n="24" facs="tcp:42293:13"/> bett, and laugh, and are ready when both are weak<g ref="char:EOLhyphen"/>ned to fall upon both together.</p>
+            <p>Nor indeed can any side be totally excus'd, since all Parties have a little touch of the Papist; their own Party is Infallible, and all the rest are damn'd Hereticks. This they are asham'd to own in general, but yet par<g ref="char:EOLhyphen"/>ticular Instances make it plain 'tis their practical Belief. Every little Fret of Affairs sets 'em a madding one a<g ref="char:EOLhyphen"/>gainst another; and if the Pulpit has at any time be<g ref="char:EOLhyphen"/>gun the War, the Press has made sufficient Reprizals; for 'twould break a thousand pair of Lungs, tho made of as sounding Brass as the Vertuoso's Engine, to be heard as far as the Press Edifies; nor is there any hold<g ref="char:EOLhyphen"/>ing forth like that of the Hawkers.</p>
+            <p>The English have been accounted a wise Nation; but would it not make a Man almost asham'd of his Coun<g ref="char:EOLhyphen"/>try, to see the Venom of any Male-content lick'd up with so much greediness, as if all the Kingdom had the Green-sickness, and nothing but Chalk and Ashes could please it?</p>
+            <p>Against those who are really Enemies to the Go<g ref="char:EOLhyphen"/>vernment, let's in God's Name be as vigorous as every honest Man ought to be, nor need we speak more than Truth of 'em; but then let's not mawl one ano<g ref="char:EOLhyphen"/>ther instead of them, nor Fire against our own Troops, because one part of them wears White and the other Red; as great a Mistake as that reported of the <hi>Innis-killing</hi>-men at the <hi>Boyne,</hi> who in the hurry of the Bat<g ref="char:EOLhyphen"/>tle met the King himself, and presented their Pistols at him, thinking him an Enemy.</p>
+            <p>We have seen the Design, Original, Character, Names and Methods of the Plots and Plotters. Those of their Favourers who are not quite lost, I'd fain try, if it might be possible, to fix a little Reason on 'em, taking them in the same Ranks to which they are already re<g ref="char:EOLhyphen"/>duc'd.</p>
+            <pb n="25" facs="tcp:42293:13"/>
+            <p>T'is a true Observation, that there's very little sound Rea<g ref="char:EOLhyphen"/>son in the World; and that most both of the great and lit<g ref="char:EOLhyphen"/>tle Actions therein, are directed from narrow Principles, Prejudice, Affection, or Example. The last of these has prevailed to render many Men well-Willers to the baffled Cause, which has ruin'd those already mention'd. 'Tis an easie, and lazy way of satisfying the Judgment; This and that great and good Man, does or does not, he knows best, why should <hi>I</hi> be afraid to follow him; not reflecting that others as great, and good, and wiser, take quite different Courses, which reduce things even beyond an <hi>Aequilibrium,</hi> at least leaves fair Reason to decide the Controversie.</p>
+            <p>If Conscience engages some Persons in the forementio<g ref="char:EOLhyphen"/>ned Matters, not to pass through all the intermediate Ar<g ref="char:EOLhyphen"/>guments, the scruple must at last Center in this; that all Kings, at least those of <hi>England,</hi> are absolutely Irresistable; (for if ever Reason, there was now;) But let 'em consi<g ref="char:EOLhyphen"/>der, this makes as arrant Whigs and Rebels of all their Glo, rified Confessors, as of any that came over with the then Princes Army.</p>
+            <p>'Tis notoriously known, as they've been often told, and can't answer it, who 'twas invited the Prince to <hi>London,</hi> (whoever did it into <hi>England</hi>) who took upon them to se<g ref="char:EOLhyphen"/>cure the Government; as soon as e're K. <hi>James</hi> was stept out of Town; who turned out his Lieutenant, and put in that Brave and Honourable Person, who remains there to this Day? Here's Resistance, with a Witness; Has this been yet confessed by those who engaged in't? Have they heartily repented? What Pennance has been done for it, or publick Satisfaction, and Acknowledgment of their Wickedness and Rebellion? If the Examples of such weigh any thing, it must be certainly as valid, when all the Nation is of the same side, as when all the Nation is against 'em. If nothing then, nei<g ref="char:EOLhyphen"/>ther now.</p>
+            <pb n="26" facs="tcp:42293:14"/>
+            <p>The <hi>Jacobites,</hi> insisting on the Numbers and Excellency of those Persons, especially, of the Clergy, who espouse or favour their Cause, makes it almost necessary for me to undertake an Ungrateful Task; for, after having desired 'em to look over their Rolls agen, and reckon how many they find who refuse the publick Prayers for their Majesties, and particularly, for Success in the <hi>Irish</hi> Expedition (which Murders all their <hi>de facto</hi> excuses) and after hence, fairly argue, that all who use these sincerely are against 'em; all that do it Hypocritically are blacker within than without; it may be very diverting, to present the World with the Characters of a few of the greatest Sticklers, for the Cause, who are, or have been of the Clergy; tho' some of 'em have in this one thing shown a little Honesty, that they have thrown off the Gown, thereby to disgrace it no longer. Whence 'twill appear, as some Ingenious Men have obser<g ref="char:EOLhyphen"/>ved, that K. <hi>James</hi> is the unhappiest Man in his <hi>Friends,</hi> of any one Living.</p>
+            <p>Among other Instances, to give at present only these one in the West, another in the North, and some nearer home, but all in Persons sufficiently Remarkable.</p>
+            <p>The little Northern Spark, who has lately been so civil to cast his Skin; and has been seen in as Conspicuous a Place, and as good a Light, as the Pillory can afford him; was as Notorious in the Country whence he came, as he has been since his Transplantation. He was indeed excellently qua<g ref="char:EOLhyphen"/>lified for a half-Martyr, among the <hi>Jacobites,</hi> being as Tur<g ref="char:EOLhyphen"/>bulent, and Abusive, as Scandalously Lewd, and Irreclai<g ref="char:EOLhyphen"/>mably and Impudently Debauch'd, as they could wish; a known frequenter of Houses and Persons of the worst Cha<g ref="char:EOLhyphen"/>racter, intimate, and long time and frequently alone, with common Harlots, adding Adultery to Uncleanness, and a Hypocrisie so horrid for his excuse and pretence, that it shall never by me be recorded, lest Christianity it self shou'd be scandalized for't, but sufficiently known, if you'll take the pains to enquire at <hi>New Castle.</hi>
+            </p>
+            <pb n="27" facs="tcp:42293:14"/>
+            <p>There's one precious Faggot, wee'll throw the other o<g ref="char:EOLhyphen"/>ver as fast as possible.</p>
+            <p>What think ye of others more <hi>Easterly,</hi> there are Persons to be Named, who after a Life sufficiently re<g ref="char:EOLhyphen"/>markable for other things, their Sobriety and Vertue, after expectations from Court, Frustrated by the unkind Departure of their Dear King <hi>James,</hi> have some of 'em, as has heen before touched, kept both their Places and Principles, declaiming as eagerly as ever, against that Government to which thep have Sworn, and by which they are protected. Others, after they have gone as fair Lengths as any, to obtain somewhat gaped after, have promised faithfully, under Hand and Seal, to swallow all the Oaths, though there were a thousand of 'em link'd to<g ref="char:EOLhyphen"/>gether (there are such Instances) on the valuable Conside<g ref="char:EOLhyphen"/>ration of warm Perquisites, and have yet mist on't; who immediately on this, fall a roaring out of their tender Con<g ref="char:EOLhyphen"/>sciences. How sorely were they gaul'd with what was re<g ref="char:EOLhyphen"/>quired? And rather would they die a thousand Deaths, than comply with't; that being the very and only Reason of their missing what they so well deserved,</p>
+            <p>But all those are drowned in the Western Belswagger: King <hi>James</hi>'s <hi>Friend</hi> κατεξὺγην, honoured by that proud Name by him himself, the famous Dr. <hi>R</hi>— of <hi>S</hi>—; he who so remarkably distinguished himself by setting up the Rebels Heads, and lying with his Parishoners Wife, and keeping her for his own proper use. This Loyal Pious Gentleman, when the Prince <gap reason="illegible" resp="#uom" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nded, rode away threatning, like half an <hi>Almanzor,</hi> to kill all his Army; but on the sud<g ref="char:EOLhyphen"/>den posted for <hi>London,</hi> because they came on too fast, and and would not stay to be murdered. But 'tis a most un<g ref="char:EOLhyphen"/>comfortable Life to be in such a wide wandring City, with<g ref="char:EOLhyphen"/>out some good Company; on which, he sends for his old Acquaintance to come and live with him, promising her an 100 <hi>l.</hi> to furnish some Rooms; which was judicially prov'd
+<pb n="28" facs="tcp:42293:15"/> against him, but a few Weeks since, by his own Letters, produced in open Court, and the Confession of the Wo<g ref="char:EOLhyphen"/>man, and as horrid a Story which as black as it seems seve<g ref="char:EOLhyphen"/>ral Circumstances are omitted, too undecent and horrid to appear in publick.</p>
+            <p>Hence would <hi>I</hi> not fall into the Errour I've blamed in others; nor condemn so much as all those who are for that Party: But this may be said, There are some great and re<g ref="char:EOLhyphen"/>markable Persons among 'em, and of the others, that we may safely challenge 'em to name any number worth taking notice of, which espouse their Party all <hi>England</hi> over, that are or have been exemplary, for Piety, Lerning, and Mode<g ref="char:EOLhyphen"/>ration (which used to be a Christian Vertue) or who think not themselves too deeply engaged in the Transacti<g ref="char:EOLhyphen"/>ons of former Reigns, to make a handsom retreat.</p>
+            <p>But who would have expected so much Truth, and such a plain Confession, as their new Prayers already hinted, give us: Let 'em confess for themselves; and indeed they seem very much on the right on't, <hi>That they are without King, without Priest, and without GOD</hi> in the World. That they are without <hi>KING,</hi> is very true; for they acknowledge not This; and their Own moves about sonimbly, no Body knows where to find him, being a much better Horse-man than <hi>King William,</hi> whatever he may be for a Souldier; for let him make never so much hast, he's got to the Rear of his Army, before the other can come to the Front; and before he beats them and gets thither, is clean out of sight. They are as much <hi>without Priest;</hi> for besides that some of 'em have slipp'd-shell, all the rest the Law has <hi>Suspended;</hi> and they are no better than meer <hi>Tubsters;</hi> and that they, and such as these already described, are really, as they confess, <hi>without GOD in the World,</hi> no body that <hi>I</hi> know will dis<g ref="char:EOLhyphen"/>pute with 'em.</p>
+            <pb n="29" facs="tcp:42293:15"/>
+            <p>Some, who don't much trouble Conscience, but their Humor lies more on the Loyal Side, seem shrowdly afraid that the Monarchy of <hi>England</hi> will be shock'd, and its Constitution alter'd by this Breach in the Succession. For some-what shaking the Frame in the Goverment, 'tis confest; but Thanks to those who made it necessary, and had rais'd so many Superstructures upon it, that 'twas a wonder it stood without quite pulling down to the Ground; and for what shaking it has had, 'tis only like that of a Tree, 'twill make its Root the firmer. Here's the pinch of the Question; Which wou'd most have injur'd the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Monarchy, tying up the Hands and Arms of a King, as they pretend they'd have had done; or making so small a Variation, as has been done ten times before, and yet the Monarchy is still alive, and alive is like to be this many Thousand Years, if the World continues so long?</p>
+            <p>If any are discontented for want of Preferment or For<g ref="char:EOLhyphen"/>tunes; Why are they so mad to venture inevitable Loss of what yet remains? Han't they fairly deserv'd to lose what they enjoy? The World runs round; and Ten to one they will have a share on't one time or other, if they don't force the Government to send them out before their turn comes.</p>
+            <p>What can the Debauchee pretend? Is't that there's none as bad as himself of our Party? All good Men wishes he were not mistaken, and groan for the time when a Drunkard, or Swearer may carry his Name, or Mark on his Fore-head, and only be Cloathed in those Rags they deserve.</p>
+            <p>Can't these sort of Persons be content to go down to their Place in silence, but they must have all publickly Transacted, ride full speed to <hi>Damnation,</hi> and make a grand Parade to Hell? Will they still drink Confusion to King <hi>William</hi> as they are going to be Hang'd, and tempt a Man
+<pb n="30" facs="tcp:42293:16"/> to wish all of their Party might take up so good a Fashi<g ref="char:EOLhyphen"/>on, were they Men and not Swine or Devils; so Noble and Royal an Example wou'd Work upon 'em: We having now a King who may say of all other Vice as of Swear<g ref="char:EOLhyphen"/>ing: He'd not have His Subjects use it till He led them the way. A Prince who Deserues, and has Earn'd all those Tittles which Flattery gave those before him: The delight of His Subjects, rhe Envy of their Neighbours, and the Ter<g ref="char:EOLhyphen"/>ror of His Enemies. Who has (or has done sufficient to<g ref="char:EOLhyphen"/>wards it.) Obliged, and really Gratified all Parties in every thing they cou'd ask, but Destroying themselves and one another, has setled the Establisht Government in Church and State, and given a Legal lasting Security to such as in some Cases differ from the first of these; who tho' absent has the Prayers, Hearts, and Purses of His People at His Service, as appears from the late generous Resolution of the City, to assist against any possible Danger with Volunta<g ref="char:EOLhyphen"/>ry Forces; Their Martial Genius not being yet lost, tho' opprest with so long Slavery, nor is it yet doubted, but they'l approve themselves as brave as they have done for<g ref="char:EOLhyphen"/>merly on sadder Occasions or before that when they have beat the <hi>Dans</hi> from their Walls, or their generous Lord Mayors Stab'd, Rebels in the Head of all their Armies, Nor can they do too much for that Prince who has done so much, and ventur'd so far for them▪ Whom now His ve<g ref="char:EOLhyphen"/>ry Enemies acknowledge, brave almost to an excess, and themselves cringing and truckle to his Fortune. Who has Conquered a Kingdom, before other Princes have struck a Stroke, and goes into the Field to Fight, not observe and dog his Enemy: And who no doubt will be here again soon enough, for all His Rebels if they dare appeare against Him which the <hi>French</hi> can't hinder without dividing their Fleet which expose 'em to our Force, as soon as we feel our selves again. Who seems born for as great things or greater than he has yet Accomplisht, and <hi>France</hi> holds out all this while to make His Laurels the more Lively
+<pb n="31" facs="tcp:42293:16"/> by their Conquest: Who appears yet destin'd for greater Victories, then any over Oppressors and Tyrants; and which none but Heaven can accomplish, <hi>viz.</hi> That Cursed Debauchery that over-runs and plagues the Nation, worse then all its former Miseries, and that Quarrelsome humour amongst our selves; that has made us the Scorn of <hi>Europe</hi> almost this Hundred Years: And when this is done, His next Expedition must be to Heaven, for Earth can have nothing left greater, either to Employ, or Reward Him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENTS.</head>
+            <p>CAsuistcal <hi>Morning Exercises,</hi> the 4th. Volume, by several <hi>Ministers</hi> in and about <hi>London:</hi> Preached in <hi>October</hi> 1689. <hi>Price Bound</hi> 6<hi>s. The Tragedies of Sin</hi> Contemplated in the time of the Angels fall of Man, Destruction of the Old World: Confusion of <hi>Babel,</hi> and Conflagration of <hi>Sedom;</hi> together with Remarks upon the Life of the Great <hi>Abraham.</hi> By <hi>Stephen Jay,</hi> Rector of <hi>Chinner</hi> in <hi>Oxford-shire.</hi> Price Bound 2 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>An Antidote against Lust:</hi> Or, a Discourse of Uncleanness. By <hi>Robert Carr,</hi> Minister of the Church of <hi>England.</hi> Price Bound 1 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>All Three sold by</hi> John Dunton.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>ANgliae Metropolis: <hi>Or,</hi> The Present State of <hi>London:</hi> With Memorials Comprehending a Full and Succint Account of the Ancient and Modern State thereof. It's Antiquity, Original, Name; Situation, Increase, Magnitude, Publick Structures, Num<g ref="char:EOLhyphen"/>ber of Inhabitants <hi>&amp;c.</hi> It's Goverment, Ecclesiastical, Temporal and Military, It's Rights, Priviledges, Charters (with an Account of the late <hi>Quo Warranto</hi> brought against the Charter▪ With many other Remarables, <hi>&amp;c.</hi> First Written by the late Ingenious <hi>Tho. De Laune</hi> Gent. and continued to this present Year, by a careful Hand. <hi>Price</hi> 2<hi>s.</hi> 6<hi>d.</hi> Printed for <hi>John Harris,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
